@@ -1,0 +1,15 @@
+.jumbotron {
+  height: 400px;
+  display: block;
+  background-color: #ccffff;
+}
+
+#lovedImg {
+  max-width: 500px;
+  height: auto;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+}
